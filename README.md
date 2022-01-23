@@ -1,4 +1,3 @@
-# FLIPDOWN-CLOCK
 
 <html>
  <head>
