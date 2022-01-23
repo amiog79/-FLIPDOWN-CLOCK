@@ -22,7 +22,7 @@ h1{
  html,
  body {
  width: 100vw;
- height: 200vh;
+ height: 50vh;
  margin: 0;
  border: 0;
  padding: 0;
