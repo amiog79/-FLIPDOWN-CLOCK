@@ -16,7 +16,7 @@ h1{
     color: black;
     background: darkgray;
     text-align: center;
-    box-shadow: 0 10px 16px 0 magenta;
+    box-shadow: 0 10px 16px 0 yellow;
 }
 
  html,
@@ -29,7 +29,7 @@ h1{
  -webkit-box-sizing: border-box;
  -moz-box-sizing: border-box;
  box-sizing: border-box;
- background: #F778A1;
+ background: #810541;
  
  }
  
