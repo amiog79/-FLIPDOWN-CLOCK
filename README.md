@@ -257,6 +257,8 @@ h2{
  
  <body>
  
+  <h3 style="font-size:35px; background: black; color: yellow; text-align: center;">DEVELOPED BY PRADIPTA GHOSH</h3> 
+  
  <h1>DIGITAL FLIPDOWN CLOCK</h1>
  
  <div id="app">
