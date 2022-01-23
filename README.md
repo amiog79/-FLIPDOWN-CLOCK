@@ -1,5 +1,5 @@
-# -FLIPDOWN-CLOCK
-<!DOCTYPE html>
+# FLIPDOWN-CLOCK
+
 <html>
  <head>
  <title></title>
