@@ -1,3 +1,4 @@
+# -FLIPDOWN-CLOCK
 
 <html>
  <head>
@@ -9,6 +10,7 @@ div{
     font-size: 70px;
     background: grey;
     box-shadow: 0 4px 6px 0 #254117;
+
 }
 
 h1{
@@ -18,6 +20,19 @@ h1{
     text-align: center;
     box-shadow: 0 10px 16px 0 yellow;
 }
+
+video{
+
+    width: 325px; height: 200px;
+    background: blue; 
+}
+
+h2{
+    color: #17D4FE;
+    font-size: 20px;
+    background: black;
+}
+
 
  html,
  body {
@@ -30,7 +45,6 @@ h1{
  -moz-box-sizing: border-box;
  box-sizing: border-box;
  background: #810541;
- 
  }
  
  *,
@@ -437,6 +451,16 @@ h1{
  
  </script>
  
+<h2 style="font-size:20px;">DUI PRITHIBI MOVIE TITLE SONG</h2>
+
+<!--VIDEO-->
+<video width="400px" height="260px" controls="">
+  <source src="DUI_PRITHIBI.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>
+<!--END VIDEO-->
+
  </body>
  
  </html>
