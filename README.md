@@ -8,7 +8,7 @@
 
 div{
     font-size: 70px;
-    /*background: grey;*/
+    background: #50C878;
     box-shadow: 0 4px 6px 0 #254117;
 
 }
